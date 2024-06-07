@@ -1,0 +1,6 @@
+@fotbollsfrontenApi_HostAddress = http://localhost:5137
+
+GET {{fotbollsfrontenApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
